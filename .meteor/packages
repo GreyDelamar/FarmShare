@@ -25,3 +25,4 @@ mobile-status-bar
 launch-screen
 check
 npm-bcrypt@0.8.7
+accounts-base
