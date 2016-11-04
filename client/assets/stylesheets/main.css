@@ -370,14 +370,25 @@ a#login-sign-in-link.login-link-text:hover {
 /*.scroll {
   background-color:rgb(43, 42, 42)
 }*/
-
-.btn btn-default  {
-  margin: auto;
-}
-
 /*.scroll{
   background-image: url('/farm_wallpaper.jpg') !important;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }*/
+.btn btn-default  {
+  margin: auto;
+}
+
+#formButton{
+  float:right;
+  display: inline;
+}
+#formBtn  {
+  display:inline;
+}
+
+#formHeader {
+  align-items: center;
+  margin: auto;
+}
